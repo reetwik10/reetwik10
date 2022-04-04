@@ -3,18 +3,18 @@
 
 - 🌱 I’m currently learning ... **DSA**
 
-- 📫 How to reach me:  <!-- put your mail id here --> 
+- 📫 How to reach me: reetwikpattanaik@gmail.com
 
-- 💬 Ask me about ... <!-- Put tech stack which you know, for ex. Java-->
+- 💬 Ask me about ... JAVA
 
 - 😄 Pronouns: He/Him
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/twitter.png" alt="_k_a_a_l" height="40" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/linkedin.png" alt="kaushik-lakhani-08012001" height="40" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/instagram.png" alt="__k.a.a.l.__" height="40" width="40" /></a>
-</p>
+
+
+
+
+
+
 
 <!--
 **reetwik10/reetwik10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
