@@ -3,13 +3,15 @@
 
 - 📚 I’m currently learning : **DSA**
 
+- 🔬 Currently working on Self-Developement.
+
 - 📫 How to reach me : reetwikpattanaik@gmail.com
 
 - 💬 Ask me about : JAVA
 
 - 😄 Pronouns: He/His
 
-- 😅 Funfact : My first priority is Food.
+
 
 
 
